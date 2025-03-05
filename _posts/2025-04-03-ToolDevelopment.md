@@ -6,10 +6,6 @@ categories: [Projects, Tool Development]
 tags: [C++, IMGui, GLFW, Game Development]
 ---
 
-## Tool Development
-
-**Date:** April 2, 2024  
-
 {% include embed/youtube.html id='yj-IiXXzZWQ' %}
 
 ### Context
