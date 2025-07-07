@@ -6,7 +6,7 @@ order: 4
 
 # About Me
 
-Hello! I'm Ralf Zeilstra, a creative developer with a strong background in software engineering, game development, and tool creation. I am passionate about building robust, maintainable systems and enjoy working on both creative and technical challenges. I am now seeking opportunities in backend development roles, where I can leverage my experience in version control, automation, and modern development workflows.
+Hello! I'm Ralf Zeilstra, a creative developer with a background in software development, game development, and tool creation. I am passionate about building robust, maintainable systems and enjoy working on both creative and technical challenges.
 
 ---
 
@@ -28,7 +28,7 @@ Hello! I'm Ralf Zeilstra, a creative developer with a strong background in softw
   - Automated build, deployment, and testing processes using Git and CI/CD pipelines.
 - **Game Developer**  
   - Unity (C#) and Unreal Engine (C++/Blueprints) experience.
-  - Developed alternative controllers, dome projection, and interactive installations.
+  - Developed alternative controllers, dome projection, interactive installations and videogames.
 - **Internship: Stage Games Inc.**  
   - Gameplay programmer (Unreal Engine, C++, Blueprints).
 
@@ -39,6 +39,13 @@ Hello! I'm Ralf Zeilstra, a creative developer with a strong background in softw
 ### Programming
 - **Languages:** C#, C++, Python, JavaScript, Java
 - **Frameworks/Engines:** Unity, Unreal Engine, Node.js
+
+### Game Development
+- Unity (C#): gameplay systems, modular architecture, editor scripting, NDI integration, dome projection
+- Unreal Engine (C++/Blueprints): gameplay programming, prototyping, tool development
+- IMGui & GLFW: custom tool UIs in C++
+- Procedural art, alternative controllers, and interactive installations
+- Experience with asset pipelines, version control in game projects, and cross-platform builds
 
 ### Backend & DevOps
 - **Version Control:** Git, SVN
