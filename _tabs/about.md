@@ -12,7 +12,7 @@ Hello! I'm Ralf Zeilstra, a creative developer with a passion for game developme
 
 **Name:** Ralf Zeilstra  
 **Location:** Netherlands  
-**Email:** [Contact via site](/#contact)  
+**Email:** [Contact via email](mailto:ralfzeils@gmail.com)  
 **LinkedIn:** [ralf-zeilstra-939261145](https://www.linkedin.com/in/ralf-zeilstra-939261145/)
 
 ### Education
