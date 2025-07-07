@@ -6,7 +6,9 @@ order: 4
 
 # About Me
 
-Hello! I'm Ralf Zeilstra, a creative developer with a passion for game development, tool creation, and interactive experiences. I enjoy working on projects that blend technology, design, and creativity.
+Hello! I'm Ralf Zeilstra, a creative developer with a strong background in software engineering, game development, and tool creation. I am passionate about building robust, maintainable systems and enjoy working on both creative and technical challenges. I am now seeking opportunities in backend development roles, where I can leverage my experience in version control, automation, and modern development workflows.
+
+---
 
 ## Curriculum Vitae
 
@@ -20,24 +22,43 @@ Hello! I'm Ralf Zeilstra, a creative developer with a passion for game developme
   Bachelor of Creative Media and Game Technologies
 
 ### Experience
-- **Game Developer & Tool Programmer**  
-  Projects include alternative controllers, dome projection, modular game architecture, and creative tool development (see [Projects](/archives.html)).
-- **C++ Tool Development**  
-  Created a dialogue editor using IMGui and GLFW, with XML save/load support.
-- **Unity Developer**  
-  Experience with C#, Unity, NDI, and dome projection systems.
-- **Internship abroad Unreal Engine**
-  Gameplay programmer for Stage Games Inc. working with blueprints and C++.
+- **Backend & Tool Developer**  
+  - Designed and implemented tools for creative and technical workflows (C++, Python, JavaScript).
+  - Developed and maintained modular systems with a focus on scalability and maintainability.
+  - Automated build, deployment, and testing processes using Git and CI/CD pipelines.
+- **Game Developer**  
+  - Unity (C#) and Unreal Engine (C++/Blueprints) experience.
+  - Developed alternative controllers, dome projection, and interactive installations.
+- **Internship: Stage Games Inc.**  
+  - Gameplay programmer (Unreal Engine, C++, Blueprints).
+
+---
 
 ## Skills
-- **Fluent Languages** Dutch, English
-- **Programming Languages:** C#, C++, Python, JavaScript, Java
-- **Game Engines:** Unity (C#), Unreal Engine (C++ / Blueprints)
-- **Tooling:** IMGui, GLFW, Visual Studio, Arduino IDE
+
+### Programming
+- **Languages:** C#, C++, Python, JavaScript, Java
+- **Frameworks/Engines:** Unity, Unreal Engine, Node.js
+
+### Backend & DevOps
+- **Version Control:** Git, SVN
+- **CI/CD:** GitHub Actions
+- **APIs:** RESTful API design, JSON, XML
+- **Databases:** SQLite, MySQL (basics)
+- **Testing:** Unit testing (C#, Python)
+
+### Tools & Workflow
+- **IDEs:** Visual Studio, VS Code, CLion
+- **Build Tools:** CMake, Make, npm
+- **Automation:** Python scripts
+- **Documentation:** Markdown, Jekyll, Doxygen
+
+### Other
 - **Hardware:** ESP-32, Arduino
-- **Graphics & Design:** Dome projection, modular design, procedural art
-- **Other:** Git, Jekyll, Markdown, XML, NDI, project documentation
+- **Languages:** Dutch (native), English (fluent)
+
+---
 
 ## More
 
-For a full list of my projects, see the [Archives](/archives.html) or browse by [Categories](/categories.html) and [Tags](/tags.html).
+For a full list of my projects, see the [Archives](/tabs/archives) or browse by [Categories](/tabs/categories) and [Tags](/tabs/tags).
