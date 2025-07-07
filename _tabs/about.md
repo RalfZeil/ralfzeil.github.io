@@ -56,9 +56,3 @@ Hello! I'm Ralf Zeilstra, a creative developer with a strong background in softw
 ### Other
 - **Hardware:** ESP-32, Arduino
 - **Languages:** Dutch (native), English (fluent)
-
----
-
-## More
-
-For a full list of my projects, see the [Archives](/tabs/archives) or browse by [Categories](/tabs/categories) and [Tags](/tabs/tags).
